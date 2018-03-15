@@ -5,7 +5,7 @@
 void PrintMenuMap(void){
   fprintf(stderr,
   "Usage: eleanora-map [OPTION]... [FILE] [FILE]                            \n"
-  "Mapping similar DNA sequences regions.                                   \n"
+  "Ultra-fast mapping of similar genomic regions                            \n"
   "                                                                         \n"
   "Non-mandatory arguments:                                                 \n"
   "                                                                         \n"
@@ -62,8 +62,8 @@ void PrintVersion(void){
   "                         |   ELEANORA v%u.%u   |                         \n"
   "                         =====================                           \n"
   "                                                                         \n"
-  "                  ELEANORA: mapping and visualization                    \n"
-  "                    of similar DNA sequence regions                      \n"
+  "                  Ultra-fast mapping and visualization                   \n"
+  "                       of similar genomic regions                        \n"
   "                                                                         \n"
   "                  It includes the following programs:                    \n"
   "                           * eleanora-map                                \n" 
@@ -71,7 +71,7 @@ void PrintVersion(void){
   "                                                                         \n"
   "Copyright (C) 2015-2018 University of Aveiro. This is a Free software.   \n"
   "You may redistribute copies of it under the terms of the GNU - General   \n"
-  "Public License v2 <http://www.gnu.org/licenses/gpl.html>. There is NOT   \n"
+  "Public License v3 <http://www.gnu.org/licenses/gpl.html>. There is NOT   \n"
   "ANY WARRANTY, to the extent permitted by law. Developed and Written by   \n"
   "Diogo Pratas.\n\n", VERSION, RELEASE);
   }
