@@ -1,5 +1,5 @@
 <p align="center"><img src="imgs/logo.png" 
-alt="ELEANORA" width="200" border="0" /></p>
+alt="ELEANORA" width="300" border="0" /></p>
 
 <b>ELEANORA is an ultra-fast tool for mapping and visualization of similar genomic regions</b>
 
